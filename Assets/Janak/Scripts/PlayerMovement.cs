@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-	Rigidbody rb;
+	private Rigidbody rb;
+    public float velocityMultiplier = 1f;
 
     // Start is called before the first frame update
     void Start()
@@ -15,6 +16,9 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		rb.position += new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical")) * 0.01f;
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
+
+        rb.AddForce(new Vector3(moveHorizontal, 0.0f, moveVertical) * velocityMultiplier);
     }
 }
