@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 0798eb6c39889a343a2b3ff9d53bc278
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_0
+    21300002: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_1
+    21300004: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_2
+    21300006: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_3
+    21300008: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_8
+    21300010: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_9
+    21300012: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_10
+    21300014: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_11
+    21300016: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_12
+    21300018: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_13
+    21300020: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_14
+    21300022: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_15
+    21300024: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_16
+    21300026: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_17
+    21300028: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_18
+    21300030: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_19
+    21300032: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_20
+    21300034: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_21
+    21300036: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_22
+    21300038: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_23
+    21300040: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_24
+    21300042: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_25
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2759f45eaf9b040b7668c87901f7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 181
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934c443a4df99144b4be065b6c61426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 181
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3f1297ed0b5bd479c4ba899a3ca37e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 181
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c41388b46cc2f49b730942a0b15b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 148
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fe8d44f0a31574b95f5c52f69df132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78d5aed2f4fb34419f3d5aa3a612416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c185628b381a5f44a1a42ed53e439fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 136
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b2b1448a06706408e81e190953fa75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 136
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a703ac56e441bb48bc27802d72ff0ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 159
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546c31fba5506341a03f10255cb2eba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a1a4033632ad44890759fbf84e1e12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 90
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5818748a397d70644853b81c649472a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 91
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27f55c28bb3f2941907162d7475c5e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 91
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d138858de74c5d46b53caf49cb8a371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 21
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8dfbe50738fd428b71c9ecda0346a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 20
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990095a452df1849b573317f4ee4cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 20
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ab2e053f5ba4469fca0e4204b68e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 46
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f7fcf975831724196936fcbef68594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 46
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60efd595a10e4924cb148a57b78a75a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 45
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7802afc7b32404485be2549c1dba9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de02b9a462becf4997c6a56afb5fd59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fat_gardenia_sprites_by_gustavomunozbastias-dcorlxf_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7943c8e3a44deb049a2417f85016364e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 95cd6cb588d65474ca81ecd12dd5e2a7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
