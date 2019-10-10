@@ -1,9 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Photon.Pun;
 
-public class PlayerMovement : MonoBehaviourPunCallbacks
+public class PlayerMovement : MonoBehaviour
 {
 	private Rigidbody rb;
     public float velocityMultiplier = 1f;
@@ -17,11 +16,6 @@ public class PlayerMovement : MonoBehaviourPunCallbacks
     // Update is called once per frame
     void Update()
     {
-		/*if (PhotonNetwork.IsConnected)
-		{
-			if (!GetComponent<PhotonView>().IsMine) return;
-		}*/
-
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
 
