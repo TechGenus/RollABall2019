@@ -18,7 +18,7 @@ public class PhotonWrapper : MonoBehaviourPunCallbacks {
     }
 
     public void LoadScene() {
-        PhotonNetwork.LoadLevel("SampleScene");
+        PhotonNetwork.LoadLevel("Scene0");
     }
 
     public override void OnConnectedToMaster() {
