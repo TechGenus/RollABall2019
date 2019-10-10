@@ -2,13 +2,19 @@
 using Photon.Realtime;
 using UnityEngine;
 
-public class PhotonWrapper : MonoBehaviourPunCallbacks
-{
+/// <summary>
+/// Wraps common photon calls.
+/// </summary>
+public class PhotonWrapper : MonoBehaviourPunCallbacks {
+    // TODO: add more settings - rooms, friends, etc.
+    
+    // Add modes - get the most points (time limit - count down)
+    //           - survive the longest (no time limit - may time how long the match goes)
+    // Make a gameobject with a script:
+    //  - script will handle the mode when loaded into the next scene.
+
     public void Connect() {
         PhotonNetwork.ConnectUsingSettings();
-         
-        // TODO: move out of here
-
     }
 
     public void LoadScene() {
